@@ -3,13 +3,13 @@
 Welcome to a retro, text-based event booking adventure! Experience how tickets for concerts, sports events, and workshops can be managed entirely using 8086 Assembly, registers, and low-level logic. This project transforms simple real-world booking into a hardware-level simulation.
 
 # Features
-Welcome & Menu
+🔹Welcome & Menu
 
 i. Greets users with a stylish welcome message.
 
 ii. Displays available events and optional extras.
 
-Event Booking
+🔹Event Booking
 
 i. Choose from Concert (C), Sports (S), Workshop (W).
 
@@ -17,13 +17,13 @@ ii. Book up to 5 tickets per event.
 
 iii. Input validation ensures correct event codes and ticket limits.
 
-Extras Selection
+🔹Extras Selection
 
 i. Optional add-ons: Parking, Merchandise, VIP Upgrade.
 
 ii. Real-time feedback if extras are already selected.
 
-Billing & Discounts
+🔹Billing & Discounts
 
 i. Automatic calculation of ticket costs and extras.
 
@@ -33,7 +33,7 @@ iii. Accepts coupon codes for extra savings.
 
 iv. Itemized final bill with subtotal, discounts, and total amount.
 
-Admin Mode
+🔹Admin Mode
 
 i. Password-protected access to modify prices, ticket limits, and coupon discounts.
 
